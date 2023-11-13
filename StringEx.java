@@ -40,7 +40,7 @@ When you capitalize the first letter of both  and  and then print them separated
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class StringEx {
 
     int check(int n ,int m){
         if(n<m){
